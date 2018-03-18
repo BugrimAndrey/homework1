@@ -1,0 +1,52 @@
+*{
+	margin-left: 120px;
+	background-color: #F2EEEE;
+}
+h1{
+	margin-left: center;
+	font-size: 25px;
+	margin-left: 160px;	
+}
+
+hr{
+	/*margin-left: 60px;
+	border: none;
+    background-color: grey; 
+    color: grey; 
+    height: 1px; 
+    width: 420px;
+    clear: both;
+  	overflow: hidden;*/
+  	margin-left: none;
+  	border: none; /* Убираем границу */
+    background-color: grey; /* Цвет линии */
+    color: grey; /* Цвет линии для IE6-7 */
+    height: 1px; /* Толщина линии */ 
+    width: 420px;  
+}
+img{
+	margin-left: 220px;
+	text-align: center;	
+}
+p{
+	font-size: 17px;
+}
+li{
+	margin-left: 15px;
+	font-size: 17px;
+}
+.fon1{
+	border: none; 
+    background-color: #E5E1E1; 
+    color: #E5E1E1; 
+    height: 1px; 
+    width: 420px;
+}
+.fon2{
+	margin-top: 20px;
+	border: none; 
+    background-color: #DDD5D5; 
+    color: #DDD5D5; 
+    height: 1px; 
+    width: 420px;
+}
